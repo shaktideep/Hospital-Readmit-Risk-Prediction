@@ -2,7 +2,6 @@
 Backend/faiss_index.bin
 
 # Dataset files
-archive/*.csv
 
 # Environment secrets
 .env
