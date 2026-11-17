@@ -1,0 +1,41 @@
+{
+  "gender": ["F", "M", "Other"],
+  "state_patient": [
+    "Andhra Pradesh",
+    "Bihar",
+    "Gujarat",
+    "Haryana",
+    "Karnataka",
+    "Kerala",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Odisha",
+    "Punjab",
+    "Rajasthan",
+    "Tamil Nadu",
+    "Telangana",
+    "Uttar Pradesh",
+    "West Bengal"
+  ],
+  "admit_type": ["Elective", "OPD", "Emergency"],
+  "ward_type": ["General", "ICU", "HDU", "NICU"],
+  "primary_diag_category": [
+    "Endocrine",
+    "Respiratory",
+    "Neurological",
+    "Infectious",
+    "Cardiovascular",
+    "Neoplasm",
+    "Gastrointestinal",
+    "Genitourinary",
+    "Perinatal",
+    "Injury",
+    "Obstetric"
+  ],
+  "primary_icd10": [
+    "E87", "J45", "G40", "A15", "I48", "I50", "C50", "J44", "K70", "N18",
+    "A41", "E11", "I10", "I21", "J18", "E10", "A91", "I63", "K57", "P07",
+    "A09", "S72", "C18", "C34", "T14", "O80", "G35", "K80", "S06", "B54",
+    "J96", "O34", "N39", "P22"
+  ]
+}

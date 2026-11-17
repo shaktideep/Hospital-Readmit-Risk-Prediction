@@ -1,0 +1,25 @@
+# Large files
+Backend/faiss_index.bin
+
+# Dataset files
+archive/*.csv
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Frontend dependencies and builds
+Frontend/node_modules/
+Frontend/.next/
+Frontend/out/
+
+# System files
+.DS_Store
+Thumbs.db
+Backend/response_1791662964643.json
+Backend/response_1791662964643.json

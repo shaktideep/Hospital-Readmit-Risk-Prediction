@@ -1,0 +1,13 @@
+{
+  "Cardiovascular": ["I10", "I21", "I48", "I50", "I63"],
+  "Endocrine": ["E10", "E11", "E87"],
+  "Gastrointestinal": ["K57", "K70", "K80"],
+  "Genitourinary": ["N18", "N39"],
+  "Infectious": ["A09", "A15", "A41", "A91", "B54"],
+  "Injury": ["S06", "S72", "T14"],
+  "Neoplasm": ["C18", "C34", "C50"],
+  "Neurological": ["G35", "G40"],
+  "Obstetric": ["O34", "O80"],
+  "Perinatal": ["P07", "P22"],
+  "Respiratory": ["J18", "J44", "J45", "J96"]
+}
